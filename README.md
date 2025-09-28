@@ -22,7 +22,7 @@ The workflow demonstrates an end-to-end data analysis pipeline:
 5. Tableau Public dashboard built from processed CSVs
 
 ## 📊 Dashboard Views
-👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/mesters-work) *(placeholder link — replace after you publish)*
+👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/mesters-work) *
 
 - **Line series**: Average delivery days & % late over time
 - **Cohort heatmap**: Retention by first purchase month
